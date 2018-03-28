@@ -1,0 +1,18 @@
+{
+  "name": "tinyurl",
+  "version": "1.0.0",
+  "description": "sdfgsdfg",
+  "main": "script.js",
+  "author": "jowze",
+  "license": "ISC",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.8",
+    "mongodb": "^3.0.4",
+    "valid-url": "^1.0.9",
+    "express": "^4.16.3"
+  }
+}
